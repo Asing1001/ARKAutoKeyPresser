@@ -1,0 +1,9 @@
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe.config
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.exe
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\bin\Debug\AutoKeyPresser.pdb
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.csprojResolveAssemblyReference.cache
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.Form1.resources
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.Properties.Resources.resources
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.csproj.GenerateResource.Cache
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.exe
+E:\Coding\01.Practice\AutoKeyPresser\AutoKeyPresser\obj\Debug\AutoKeyPresser.pdb
